@@ -64,5 +64,8 @@ I am an aspiring SOC Analyst with hands-on experience in security monitoring, th
 ## 🌐 Connect With Me
 - 🔗 LinkedIn: (https://www.linkedin.com/in/nirakaramishra-cse)
 - 💻 Portfolio: (https://nirakaramishra-cse.github.io/Portfolio)
+- 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nirakaramishra-cse)
+- 💻 [Portfolio](https://nirakaramishra-cse.github.io/Portfolio)
 
   
