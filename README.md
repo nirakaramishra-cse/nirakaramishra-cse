@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Nirakar Mishra
+# 👋 Hi, I'm Nirakara Mishra
 
 🔐 Aspiring SOC Analyst | Threat Detection • Log Analysis • SIEM Basics  
 
@@ -19,7 +19,7 @@ I am an aspiring SOC Analyst with hands-on experience in security monitoring, th
 ---
 
 ## 🛠️ Technical Skills
-- SIEM Basics (Splunk)
+- SIEM Basics (Splunk, QRadar)
 - Threat Detection & Log Analysis
 - Incident Response
 - Network Security
